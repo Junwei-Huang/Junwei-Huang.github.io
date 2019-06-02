@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-06-02T05:28:42.525Z</updated>
+  <updated>2019-06-02T05:50:14.115Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,8 +20,8 @@
     <title>Fitness record</title>
     <link href="http://yoursite.com/2019/06/02/Fitness-record/"/>
     <id>http://yoursite.com/2019/06/02/Fitness-record/</id>
-    <published>2019-06-02T05:26:53.000Z</published>
-    <updated>2019-06-02T05:28:42.525Z</updated>
+    <published>2019-06-02T05:35:24.000Z</published>
+    <updated>2019-06-02T05:50:14.115Z</updated>
     
     <content type="html"><![CDATA[<p>只有体态和数据。</p><table><thead><tr><th>时间</th><th>体重</th><th>肌肉</th><th>脂肪</th><th>体脂</th><th>水 分</th><th>代谢</th><th>数据源</th></tr></thead><tbody><tr><td>03/07</td><td>75</td><td>32.1</td><td>17.1</td><td>22.8</td><td>54.9</td><td>1795</td><td>魔力熊猫</td></tr><tr><td>04/09</td><td>75.4</td><td>34.1</td><td>13.9</td><td>18.4</td><td>59.2</td><td>1799</td><td>魔力熊猫</td></tr><tr><td>05/05</td><td>76.1</td><td>35</td><td>13</td><td>17</td><td>60.7</td><td>1807</td><td>魔力熊猫</td></tr><tr><td>05/31</td><td>76.3</td><td>34</td><td>15.1</td><td>19.7</td><td>57.7</td><td>1810</td><td>魔力熊猫</td></tr></tbody></table>]]></content>
     
@@ -46,10 +46,12 @@
     
     </summary>
     
+      <category term="生活" scheme="http://yoursite.com/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+      <category term="健身" scheme="http://yoursite.com/categories/%E7%94%9F%E6%B4%BB/%E5%81%A5%E8%BA%AB/"/>
+    
     
       <category term="健身" scheme="http://yoursite.com/tags/%E5%81%A5%E8%BA%AB/"/>
-    
-      <category term="生活" scheme="http://yoursite.com/tags/%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
